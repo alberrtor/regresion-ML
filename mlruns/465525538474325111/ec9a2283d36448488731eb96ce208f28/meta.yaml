@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alberrtor/Documents/dev/git/my_projects/regresion-ML/mlruns/465525538474325111/ec9a2283d36448488731eb96ce208f28/artifacts
+end_time: 1727566251449
+entry_point_name: ''
+experiment_id: '465525538474325111'
+lifecycle_stage: active
+run_id: ec9a2283d36448488731eb96ce208f28
+run_name: indecisive-bear-796
+run_uuid: ec9a2283d36448488731eb96ce208f28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727566248756
+status: 3
+tags: []
+user_id: alberrtor
